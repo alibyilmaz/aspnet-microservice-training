@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WRFrS9TKiHC1awX2F+7SCsQrwXm8xJqp8UBGhVEOSrK/CvN932S6rquEgzhuVKUk6wDjwSQmWjTiatAotOu0Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ali\\source\\repos\\aspnet-microservice-training\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ali\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ali\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ali\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
